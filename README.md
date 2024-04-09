@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**maldwg/maldwg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Max a Software Engineer, interested in all kinds of technical stuff like 
+- Containerization  
+- Secure Software Engineering
+- DevOps
+- ML
+- MLOps
+- and many more
 
-Here are some ideas to get you started:
+Currently working on my master's thesis at [Universität Heidelberg](https://www.uni-heidelberg.de/de)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=maldwg&theme=great-gatsby&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
