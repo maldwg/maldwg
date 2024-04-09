@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Max a Software Engineer, interested in all kinds of technical stuff like 
+I am Max, a Software Engineer interested in all kinds of technical stuff like 
 - Containerization  
 - Secure Software Engineering
 - DevOps
