@@ -12,8 +12,11 @@ Currently working on my master's thesis at [Universität Heidelberg](https://www
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maldwg&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maldwg&layout=compact)
 
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maldwg&show_icons=true&theme=gruvbox)
 <br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=maldwg&theme=great-gatsby&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
