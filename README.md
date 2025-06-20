@@ -8,7 +8,7 @@ I am Max, a Software Engineer interested in all kinds of technical stuff like
 - MLOps
 - and many more
 
-Currently working on my master's thesis at [Universität Heidelberg](https://www.uni-heidelberg.de/de)
+Currently working as a PhD student at [Universität Heidelberg](https://www.uni-heidelberg.de/de)
 
 <br>
 
